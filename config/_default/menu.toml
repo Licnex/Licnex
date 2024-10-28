@@ -9,8 +9,8 @@
 
 [[social]]
 identifier = "github"
-name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+name = "My GitHub"
+url = "https://github.com/Licnex"
 
 [social.params]
 icon = "brand-github"
@@ -18,7 +18,7 @@ icon = "brand-github"
 [[social]]
 identifier = "twitter"
 name = "Twitter"
-url = "https://twitter.com"
+url = ""
 
 [social.params]
 icon = "brand-twitter"
