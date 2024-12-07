@@ -97,14 +97,6 @@ Hi, I'm Momin Khan, an aspiring software engineer from Pakistan
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
-  <div align=center>
-    [![Contributors][contributors-shield]][contributors-url]
-    [![Forks][forks-shield]][forks-url]
-    [![Stargazers][stars-shield]][stars-url]
-    [![Issues][issues-shields]][issues-url]
-    [![MIT License][license-shield]][license-url]
-    [![LinkedIn][linkedin-shield]][linkedin-url]
-  </div>
 </p>
 
 <!-- MARKDOWN LINKS -->
