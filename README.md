@@ -6,8 +6,11 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=750&center=true&vCenter=true&width=435&lines=Hello+there%2C+this+is+Licnex;I+just+code+for+fun+%5E_%5E)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Momin+Khan....;Nice+to+meet+you!;I+just+code+for+fun+^_^&center=true&size=30">
+  </a>
+</h1>
   <p align="center">
     Hello, this is my website
     <br />
