@@ -11,7 +11,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Momin+Khan....;Nice+to+meet+you!;I+just+code+for+fun+^_^&center=true&size=30">
   </a>
 </h1>
-
+<!-- ABOUT THE PROJECT -->
+<details>
+  <summary>Project Overview</summary>
 <p align="center">
   Hello, this is my website
   <br />
@@ -24,10 +26,6 @@
   ·
   <a href="https://github.com/Licnex/Licnex/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
 </p>
-
-<!-- ABOUT THE PROJECT -->
-<details>
-  <summary>Project Overview</summary>
 
 This is a website I've been working on for a while. I had to learn a lot of stuff so I hope you like it.
 
