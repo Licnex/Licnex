@@ -7,7 +7,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There!;This+is+Licnex)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There!;This+is+Licnex)](https://git.io/typing-svg)
 
   <p align="center">
     Hello, this is my website
@@ -15,7 +15,7 @@
     <a href="https://github.com/Licnex/Licnex"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Licnex/Licnex">View Demo</a>
+    <a href="https://licnex.github.io/licnex">View Demo</a>
     ·
     <a href="https://github.com/Licnex/Licnex/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -86,27 +86,6 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/Licnex/Licnex](https://github.com/Licnex/Licnex)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- []()
-- []()
-- []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
