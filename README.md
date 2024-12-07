@@ -106,3 +106,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <br>
 
 </details>
+[contributors-shield]: https://img.shields.io/github/contributors/Licnex/Licnex.svg?style=for-the-badge
+[contributors-url]: https://github.com/Licnex/Licnex/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Licnex/Licnex.svg?style=for-the-badge
+[forks-url]: https://github.com/Licnex/Licnex/network/members
+[stars-shield]: https://img.shields.io/github/stars/Licnex/Licnex.svg?style=for-the-badge
+[stars-url]: https://github.com/Licnex/Licnex/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Licnex/Licnex.svg?style=for-the-badge
+[issues-url]: https://github.com/Licnex/Licnex/issues
+[license-shield]: https://img.shields.io/github/license/Licnex/Licnex.svg?style=for-the-badge
+[license-url]: https://github.com/Licnex/Licnex/blob/main/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/momin-khan-592797283
