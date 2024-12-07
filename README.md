@@ -6,17 +6,11 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/Licnex/Licnex">
-    <img src="C:\Users\Licnex\Downloads\Main Projects\Mixed\Licnex\resources\_gen\images\img" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There!;This+is+Licnex)](https://git.io/typing-svg)</h3>
 
   <p align="center">
-    project_description
+    Hello, this is my website
     <br />
     <a href="https://github.com/Licnex/Licnex"><strong>Explore the docs »</strong></a>
     <br />
@@ -38,20 +32,9 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    </li>\
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -61,7 +44,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Hello
+Hello There, this is Licnex
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
