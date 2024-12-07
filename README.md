@@ -79,7 +79,7 @@ Hi, I'm Momin Khan, an aspiring software engineer from Pakistan
 <br>
 💬 Ask me anything by opening an issue <a href="https://github.com/Licnex/Licnex/issues" title="Issue">here</a>
 <br>
-📫 How to reach me: <a href="mailto: alexanderli@hotmail.ca">alexanderli@hotmail.ca</a>
+📫 How to reach me: <a href="mailto: Mominravage@gmail.com">Mominravage@gmail.com</a>
 </p>
 
 <br>
@@ -110,5 +110,6 @@ Hi, I'm Momin Khan, an aspiring software engineer from Pakistan
 [issues-shield]: https://img.shields.io/github/issues/Licnex/Licnex.svg?style=for-the-badge
 [issues-url]: https://github.com/Licnex/Licnex/issues
 [license-shield]: https://img.shields.io/github/license/Licnex/Licnex.svg?style=for-the-badge
+[license-url]: https://github.com/Licnex/Licnex/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mominkhan
